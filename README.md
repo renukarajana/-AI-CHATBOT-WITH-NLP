@@ -56,4 +56,4 @@ An NLP-powered chatbot processes and understands human language using machine le
 - Learning Resources: Udemy NLP courses, YouTube tutorials, Stack Overflow discussions
 
 * OUTPUT :
-  ![Image](https://github.com/user-attachments/assets/7954465c-7713-464e-9179-5d70698e20a8)
+  ![Image](https://github.com/user-attachments/assets/2e19c080-2c85-412b-864e-6169d8a0aacc)
