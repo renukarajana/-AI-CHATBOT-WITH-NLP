@@ -17,10 +17,10 @@ DESCRIPTION :
 Creating a chatbot using Natural Language Processing (NLP) in Python involves designing an AI system that understands and responds to user inputs intelligently.
 Description of Chatbot Creation Using NLP in Python :
 An NLP-powered chatbot processes and understands human language using machine learning techniques. The steps involved include:
-1.Set Up the Environment
+1)Set Up the Environment
   Install Python and the necessary NLP libraries using:
   pip install nltk spacy transformers chatterbot chatterbot_corpus
-2.Preprocessing Text Data
+2)Preprocessing Text Data
 - Tokenization: Splitting user inputs into individual words
 - Lemmatization: Reducing words to their base form
 - Stopword Removal: Filtering out common words like "the" and "is"
@@ -29,20 +29,20 @@ An NLP-powered chatbot processes and understands human language using machine le
   text = "Hello! How can I help you today?"
   tokens = word_tokenize(text)
   print(tokens)
-3.Choose an NLP Model
+3)Choose an NLP Model
 - Rule-Based: Uses predefined responses (ChatterBot)
 - Machine Learning-Based: Utilizes deep learning models like BERT or GPT
 - Hybrid Approach: Combines rule-based and ML models
-4.Train the Chatbot
+4)Train the Chatbot
 - Fine-tune NLP models with datasets such as Cornell Movie Dialogs Corpus or Kaggle chatbot   datasets.
 - Use pretrained transformer models for conversational AI.
-5.Build a Response System
+5)Build a Response System
 - Simple pattern matching using spaCy
 - Intelligent responses with GPT-based models
-6.Integrate the Chatbot
+6)Integrate the Chatbot
 - Deploy on a website using Flask
 - Connect to messaging platforms using Telegram API, Slack API
-7.Test and Optimize
+7)Test and Optimize
 - Improve response accuracy by refining training data
 - Implement feedback loops
 * Resources Used
@@ -56,4 +56,4 @@ An NLP-powered chatbot processes and understands human language using machine le
 - Learning Resources: Udemy NLP courses, YouTube tutorials, Stack Overflow discussions
 
 * OUTPUT :
-  
+  ![Image](https://github.com/user-attachments/assets/7954465c-7713-464e-9179-5d70698e20a8)
